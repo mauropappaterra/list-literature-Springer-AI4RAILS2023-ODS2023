@@ -1,4 +1,4 @@
-[PAPER]: https://2023.ieee-itsc.org/](https://www.airoconference.it/ods2023/schedule?view=article&id=19&catid=2:uncategorised&article=252)
+[PAPER]: https://www.airoconference.it/ods2023/schedule?view=article&id=19&catid=2:uncategorised&article=252
 # Literature list for "From Roads to Rails: Bridging the Gap in Signal Recognition Through Computer Vision" (Springer)
 The following tabulated list presents all paper consulted for the publication "From Roads to Rails: Bridging the Gap in Signal Recognition Through Computer Vision".
 
