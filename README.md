@@ -1,4 +1,4 @@
-[PAPER]: https://2023.ieee-itsc.org/
+[PAPER]: [https://2023.ieee-itsc.org/](https://www.airoconference.it/ods2023/schedule?view=article&id=19&catid=2:uncategorised&article=252)
 # Literature list for "From Roads to Rails: Bridging the Gap in Signal Recognition Through Computer Vision" (Springer)
 The following tabulated list presents all paper consulted for the publication "From Roads to Rails: Bridging the Gap in Signal Recognition Through Computer Vision".
 
@@ -9,8 +9,8 @@ You can find a CSV and XLSX file with the list of papers in this repository.
 |Reference no.|Paper Title|Year Published|Author(s)|
 |-------------|-----------|--------------|---------|
 |1|Artificial Intelligence in Transport. Current and Future Developments, Opportunities and Challenges.|2019|European Parliamentary Research Service (EPRS), European Parliament|
-|2|Deliverable D1.2 Summary of existing relevant projects and state-of-the-art of AI application in railways|2021|Be�inovi?, N., Tang, R., Lin, Z., Liu, R., Tang, T., De Donato, L., Vittorini, V., Wang, Z., Flammini, F., Pappaterra, M.J., et al.|
-|3|A literature review of Artificial Intelligence applications in railway systems|2022|Tang, R., De Donato, L., Be�inovi?, N., Flammini, F., Goverde, R.M.P., Lin, Z., Liu, R., Tang, T., Vittorini, V., Wang, Z.|
+|2|Deliverable D1.2 Summary of existing relevant projects and state-of-the-art of AI application in railways|2021|Bešinović, N., Tang, R., Lin, Z., Liu, R., Tang, T., De Donato, L., Vittorini, V., Wang, Z., Flammini, F., Pappaterra, M.J., et al.|
+|3|A literature review of Artificial Intelligence applications in railway systems|2022|Tang, R., De Donato, L., Bešinović, N., Flammini, F., Goverde, R.M.P., Lin, Z., Liu, R., Tang, T., Vittorini, V., Wang, Z.|
 |4|Traffic sign recognition and analysis for intelligent vehicles|2003|A. de la Escalera, J.M Armingol, M. Mata|
 |5|A Vision of Intelligent Train Control|2022|Flammini, F., De Donato, L., Fantechi, A., Vittorini, V.|
 |6|Railway sign detection and classification|2006|R. Marmo, L. Lombardi and N. Gagliardi|
@@ -22,15 +22,15 @@ You can find a CSV and XLSX file with the list of papers in this repository.
 |12|Enhancing railway maintenance safety using open-source computer vision|2021|Shin, D., Jin, J., Kim, J.|
 |13|Detection of Locomotive Signal Lights and Pedestrians on Railway Tracks Using Improved YOLOv4|2022|H. Wang, H. Pei and J. Zhang|
 |14|Real-Time Detection and Recognition of Railway Traffic Signals Using Deep Learning|2022|Staino, A., Suwalka, A., Mitra, P. et al.|
-|15|Frsign: A large-scale traffic light dataset for autonomous trains|2020|Harb, Jeanine, R�b�na, Nicolas, Chosidow, Rapha�l, Roblin, Gr�goire, Potarusov, Roman, Hajri, Hatem|
+|15|Frsign: A large-scale traffic light dataset for autonomous trains|2020|Harb Jeanine, Rébéna Nicolas, Chosidow Raphaël, Roblin Grégoire, Potarusov Roman, Hajri Hatem|
 |16|GERALD: A novel dataset for the detection of German mainline railway signals|2023|Leibner P, Hampel F, Schindler C.
-|17|A Systematic Review of Artificial Intelligence Public Datasets for Railway Applications|2021|Pappaterra, M. J., Flammini, F., Vittorini, V., Be�inovi?, N.|
+|17|A Systematic Review of Artificial Intelligence Public Datasets for Railway Applications|2021|Pappaterra, M. J., Flammini, F., Vittorini, V., Bešinović, N.|
 |18|Microsoft COCO: Common Objects in Context|2014|Lin, TY. et al.|
 |19|Road and traffic sign detection and recognition|2005|Fleyeh, Hasan, Dougherty, Mark|
 |20|Goal Evaluation of Segmentation Algorithms for Traffic Sign Recognition|2010|H. Gomez-Moreno, S. Maldonado-Bascon, P. Gil-Jimenez and S. Lafuente-Arroyo|
 |21|The German Traffic Sign Recognition Benchmark: A multi-class classification competition|2011|J. Stallkamp, M. Schlipsing, J. Salmen and C. Igel|
 |22|Detection of traffic signs in real-world images: The German traffic sign detection benchmark|2013|S. Houben, J. Stallkamp, J. Salmen, M. Schlipsing, and C. Igel|
-|23|Vision-based traffic sign detection and analysis for intelligent driver assistance systems: Perspectives and survey|2012|A. M�gelmose, M. M. Trivedi, and T. B. Moeslund|
+|23|Vision-based traffic sign detection and analysis for intelligent driver assistance systems: Perspectives and survey|2012|A. Møgelmose, M. M. Trivedi, and T. B. Moeslund|
 |24|A single target voting scheme for traffic sign detection|2011|S. Houben|
 |25|Road sign detection in images: A case study|2010|R. Belaroussi, P. Foucher, J.-P. Tarel, B. Soheilian, P. Charbonnier, and N. Paparoditis|
 |26|Man vs. Computer: Benchmarking machine learning algorithms for traffic sign recognition|2012|J. Stallkamp, M. Schlipsing, J. Salmen, and C. Igel|
@@ -46,8 +46,8 @@ You can find a CSV and XLSX file with the list of papers in this repository.
 |36|Traffic Lights Detection and Recognition Method Based on the Improved YOLOv4 Algorithm|2022|Wang, Q., Zhang, Q., Liang, X., Wang, Y., Zhou, C., Mikulovich, V.I.|
 |37|A Small Network MicronNet-BF of Traffic Sign Classification|2022|Hai-Feng Fang, Jin Cao, Zhi-Yuan Li|
 |38|A Low-Cost Fully Integer-Based CNN Accelerator on FPGA for Real-Time Traffic Sign Recognition|2022|J. Kim, J. K. Kang and Y. Kim|
-|39|An Implementation of Real-Time Traffic Signs and Road Objects Detection Based on Mobile GPU Platforms|2022|E. G�ney, C. Bayilmi? and B. �akan|
-|40|Neural-Network-Based Traffic Sign Detection and Recognition in High-Definition Images Using Region Focusing and Parallelization|2020|A. Avramovi?, D. Sluga, D. Tabernik, D. Sko?aj, V. Stojni? and N. Ilc|
+|39|An Implementation of Real-Time Traffic Signs and Road Objects Detection Based on Mobile GPU Platforms|2022|E. Güney, C. Bayilmiş and B. Çakan|
+|40|Neural-Network-Based Traffic Sign Detection and Recognition in High-Definition Images Using Region Focusing and Parallelization|2020|A. Avramović, D. Sluga, D. Tabernik, D. Skočaj, V. Stojnić and N. Ilc|
 |41|Cognition based Recognition of Partially Occluded Traffic Signs|2022|Mannan, A., Javed, K., ur Rehman, A., Babri, H. A., Noon, S. K.|
 |42|Robust Traffic Sign Recognition Against Camera Failures|2022|M. Atif, A. Ceccarelli, T. Zoppi, M. Gharib and A. Bondavalli|
 |43|Statistical Boosting: A Preprocessing Technique to Enhance Performance of Machine Learning and Deep Learning Models on Partially Occluded Traffic Signs|2020|A. Mannan, K. Javed and S. K. Noon|
