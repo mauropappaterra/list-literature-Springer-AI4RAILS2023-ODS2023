@@ -1,7 +1,7 @@
 [PAPER]: https://www.airoconference.it/ods2023/schedule?view=article&id=19&catid=2:uncategorised&article=252
 [LINKTREE]: https://linktr.ee/pappaterra
 # Literature list for "From Roads to Rails: Bridging the Gap in Signal Recognition Through Computer Vision" (Springer)
-This repository contains a tabulated list with all papers consulted for the publication "From Roads to Rails: Bridging the Gap in Signal Recognition Through Computer Vision" which was presented at the <i>International Conference on Optimization and Decision Science</i> (ODS2023) in Ischia, Italy in 2023; and published by Springer in 2024. 
+This repository contains a tabulated list with all papers consulted for the publication "From Roads to Rails: Bridging the Gap in Signal Recognition Through Computer Vision" which was presented in 2023 at the <i>International Conference on Optimization and Decision Science</i> (ODS2023) in Ischia, Italy; and published by Springer in 2024. 
 
 - Read this publication. Click on [this link][PAPER] to read the publication on the Springer website.
 - You can find a CSV and XLSX file with the list of papers in this repository.
