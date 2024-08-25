@@ -1,13 +1,18 @@
 [PAPER]: https://www.airoconference.it/ods2023/schedule?view=article&id=19&catid=2:uncategorised&article=252
+[LINKTREE]: https://linktr.ee/pappaterra
 # Literature list for "From Roads to Rails: Bridging the Gap in Signal Recognition Through Computer Vision" (Springer)
-The following tabulated list presents all paper consulted for the publication "From Roads to Rails: Bridging the Gap in Signal Recognition Through Computer Vision".
+This repository contains a tabulated list with all papers consulted for the publication "From Roads to Rails: Bridging the Gap in Signal Recognition Through Computer Vision" which was presented at the <i>International Conference on Optimization and Decision Science</i> (ODS2023) in Ischia, Italy in 2023; and published by Springer in 2024. 
 
-[Click here][PAPER] to view the publication.
-
-You can find a CSV and XLSX file with the list of papers in this repository.
+- Read this publication. Click on [this link][PAPER] to read the publication on the Springer website.
+- You can find a CSV and XLSX file with the list of papers in this repository.
+- Citations. Use the following text if you want to cite this publication:  
+> [#] Mauro José Pappaterra "From Roads to Rails: Bridging the Gap in Signal Recognition Through Computer Vision", International Conference on Optimization and Decision Science, ODS2023, Ischia, Italy.
+- You can follow me on all of [my academic profiles][LINKTREE] for future updates and more work related to this publication.
 
 ## Abstract
 In this paper, we present a comprehensive review of traffic signal recognition through Computer Vision (CV) and its potential applications for operations and decision making within the railway domain. This methodology is well-established in the automotive industry (i.e., self-driving cars) where several specific methods have been developed, but little is written on signal recognition for autonomous trains or as Advanced Driver Assistance Systems (ADAS) for railways. While onboard Automatic Train Protection (ATP) systems currently dominate signal analysis in railways, CV-based traffic sign detection and recognition systems have significant potential for the industry. The objective of this study is to examine the state-of-the-art CV techniques applied to road signals, the challenges, and possible solutions for accurate and efficient signal detection and classification; and how these techniques can be incorporated into the railway sector. We also conduct a short literature review of traffic sign detection and recognition in both roads and railway systems. This study discusses CV systems utilized in road signals in terms of their suitability for railway applications and explores the advantages and challenges of utilizing these existing technologies for signal recognition in railway environments. 
+
+[Read publication on Springer Link][PAPER]
 
 ## List of Papers
 |Reference no.|Paper Title|Year Published|Author(s)|
